@@ -1,6 +1,7 @@
 # mbart-chinese
 
-多语言降噪预训练模型MBart的中文生成任务
+基于[mbart-large-cc25](https://huggingface.co/facebook/mbart-large-cc25) 
+的中文生成任务
 
 ## Input
 - source input: `text` + `</s>` + `lang_code`
